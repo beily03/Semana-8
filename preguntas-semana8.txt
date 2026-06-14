@@ -1,0 +1,12 @@
+preguntas-semana8.txt
+pregunta 1 
+respuesta: B
+
+pregunta 2
+respuesta : A
+
+Pregunta 3
+respuesta :B
+
+Pregunta 4
+repuesta : B
